@@ -1,0 +1,20 @@
+{
+  "name": "mass.2",
+  "version": "1.0.0",
+  "description": "Задание 1. Выведите все элементы массива с индексами, которые делятся на 3. Количество элементов массива равно n.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgiyKuz/mass.2.git"
+  },
+  "author": "Georgiy Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgiyKuz/mass.2/issues"
+  },
+  "homepage": "https://github.com/GeorgiyKuz/mass.2#readme"
+}
